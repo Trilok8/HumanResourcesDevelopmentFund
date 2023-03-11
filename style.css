@@ -1,0 +1,12 @@
+  /* Style the button and place it in the middle of the container/image */
+  .container .btn {
+      position: absolute;
+      width: 140px;
+      height: 35px;
+      top: 29.5%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      background-color: #ff0c0c00;
+      padding: 12px 24px;
+  }
